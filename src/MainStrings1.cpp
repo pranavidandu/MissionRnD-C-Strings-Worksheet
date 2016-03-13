@@ -20,11 +20,16 @@ int main(){
 	//Test KthIndexFromEnd 
 
 	//TestNumbertoStr
-
+	/*float number = -345.344;
+	char str[20];
+	number_to_str(number, str, 2);*/
 	//removeSpaces
-
+	//char str[] = "12 w 2e     we  2 3     ";
+	//removeSpaces(str);
 	//StrWordsinRev
-
+	/*char input[100] = "a b c d";
+	int len = 7;
+	str_words_in_rev(input, len);*/
 	//commonWords
 
 
